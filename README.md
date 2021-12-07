@@ -48,6 +48,9 @@ Burası algoritmanın önemli olan kısmı. Burada RED, GREEN, BLUE değerlerini
 Gray = (Red + Green + Blue) / 3
 ```
 
+![Ekran Resmi 2021-12-08 00 56 56](https://user-images.githubusercontent.com/25556230/145112400-11e0c347-5689-4da0-b74c-513597fd6e02.png)
+![Ekran Resmi 2021-12-08 00 57 14](https://user-images.githubusercontent.com/25556230/145112424-ebfb9ff1-269a-4aa6-a0a0-0c96ad85fdd1.png)
+
 
 ### KAYNAKLAR
 1- https://tannerhelland.com/2011/10/01/grayscale-image-algorithm-vb6.html
