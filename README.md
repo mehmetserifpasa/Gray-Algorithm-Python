@@ -13,7 +13,7 @@ for x in range(width):
         PIXEL_COLOR = pixel[x, y]
 
         TOTAL_COLOR = int(
-            (PIXEL_COLOR[0] + PIXEL_COLOR[1] + PIXEL_COLOR[2]) / 3
+            (PIXEL_COLOR[0] + PIXEL_COLOR[1] + PIXEL_COLOR[2]) / 2
         )
 
         image.putpixel(
